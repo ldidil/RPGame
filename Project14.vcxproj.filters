@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Pliki źródłowe">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Pliki nagłówkowe">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Pliki zasobów">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Pliki źródłowe\character">
+      <UniqueIdentifier>{814f1852-148d-4567-98fc-18ea60c179d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\locations">
+      <UniqueIdentifier>{5c9d6e61-1c2c-444a-a156-f3630c066d1c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Alkohol">
+      <UniqueIdentifier>{7a65a6a7-3e12-4e8d-86be-3266f2fe8224}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Pliki źródłowe\Execption">
+      <UniqueIdentifier>{9a233245-b420-4020-b28b-7c90847431da}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Źródło.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Character.cpp">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClCompile>
+    <ClCompile Include="Locations.cpp">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Alkohol.cpp">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClCompile>
+    <ClCompile Include="Beer.cpp">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClCompile>
+    <ClCompile Include="Vodka.cpp">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClCompile>
+    <ClCompile Include="Student.cpp">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClCompile>
+    <ClCompile Include="YourCharacter.cpp">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClCompile>
+    <ClCompile Include="Ms.cpp">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Shop.cpp">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Gig.cpp">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Room.cpp">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Pliki źródłowe</Filter>
+    </ClCompile>
+    <ClCompile Include="Exceptions.cpp">
+      <Filter>Pliki źródłowe\Execption</Filter>
+    </ClCompile>
+    <ClCompile Include="IncorectValueException.cpp">
+      <Filter>Pliki źródłowe\Execption</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Character.h">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClInclude>
+    <ClInclude Include="Locations.h">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Alkohol.h">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClInclude>
+    <ClInclude Include="Beer.h">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClInclude>
+    <ClInclude Include="Vodka.h">
+      <Filter>Pliki źródłowe\Alkohol</Filter>
+    </ClInclude>
+    <ClInclude Include="Student.h">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClInclude>
+    <ClInclude Include="YourCharacter.h">
+      <Filter>Pliki źródłowe\character</Filter>
+    </ClInclude>
+    <ClInclude Include="Ms.h">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Shop.h">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Gig.h">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Room.h">
+      <Filter>Pliki źródłowe\locations</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="Exceptions.h">
+      <Filter>Pliki źródłowe\Execption</Filter>
+    </ClInclude>
+    <ClInclude Include="IncorectValueException.h">
+      <Filter>Pliki źródłowe\Execption</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

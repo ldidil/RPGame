@@ -1,0 +1,11 @@
+Witaj Studencie!
+Juwenalia coraz blizej, czy jestes gotow je przetrwac?
+Nadaj imie swojej postaci: 
+*
+Zobaczysz zaraz twoj stan postaci. 
+Musisz kontrolowac jego stan.
+Staraj sie zdobyc jak najwyzszy poziom fun'u.
+Uwazaj by byc wyspanym i nie szalej tak z alkoholem.
+Obecnie znajdujesz sie w swoim pokoju.
+Moze pora gdzies isc?
+*
